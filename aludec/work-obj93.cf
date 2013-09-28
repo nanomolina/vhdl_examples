@@ -1,0 +1,7 @@
+v 3
+file . "test_aludec.vhd" "20130828215010.000" "20130828185012.878":
+  entity test_aludec at 1( 0) + 0 on 13;
+  architecture arq_test_aludec of test_aludec at 7( 79) + 0 on 14;
+file . "aludec.vhd" "20130828213635.000" "20130828183732.481":
+  entity aludec at 1( 0) + 0 on 11;
+  architecture arq_aludec of aludec at 10( 231) + 0 on 12;

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/6/trunk/flopr
+END
+test_flopr.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/flopr/test_flopr.vhd
+END
+flopr.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/flopr/flopr.vhd
+END

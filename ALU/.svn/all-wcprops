@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/5/trunk/ALU
+END
+ALU.vcd
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/4/trunk/ALU/ALU.vcd
+END
+test_ALU.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4/trunk/ALU/test_ALU.vhd
+END
+ALU.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/trunk/ALU/ALU.vhd
+END

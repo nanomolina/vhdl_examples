@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/14/trunk/register
+END
+regfile.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/register/regfile.vhd
+END
+test_regfile.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/register/test_regfile.vhd
+END

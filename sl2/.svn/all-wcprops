@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/6/trunk/sl2
+END
+test_sl2.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/6/trunk/sl2/test_sl2.vhd
+END
+sl2.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/sl2/sl2.vhd
+END

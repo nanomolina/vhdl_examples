@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/23/trunk/datapath
+END
+mux2.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/17/trunk/datapath/mux2.vhd
+END
+regfile.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/17/trunk/datapath/regfile.vhd
+END
+adder.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/17/trunk/datapath/adder.vhd
+END
+sl2.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/17/trunk/datapath/sl2.vhd
+END
+ALU.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/23/trunk/datapath/ALU.vhd
+END
+signext.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/17/trunk/datapath/signext.vhd
+END
+dmem.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/datapath/dmem.vhd
+END
+flopr.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/17/trunk/datapath/flopr.vhd
+END
+components.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/datapath/components.vhd
+END
+datapath.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/datapath/datapath.vhd
+END
+imem.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/17/trunk/datapath/imem.vhd
+END
